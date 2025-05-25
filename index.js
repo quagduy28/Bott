@@ -9,7 +9,7 @@ function startBot() {
   const bot = mineflayer.createBot({
     host: "191.96.231.5", // ví dụ: 'mc.server.com'
     port: 11539, // mặc định là 25565
-    username: "Ronaldo", // tên bot cho server crack
+    username: "Ronaldĩ", // tên bot cho server crack
     // password: 'mật_khẩu' // nếu cần login (premium)
   });
 
